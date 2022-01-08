@@ -2,4 +2,4 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Full Stack Developer
-- 📫 How to reach me meimmortal007@gmail.com
+- 📫 How to reach me 📧 meimmortal007@gmail.com
